@@ -1,5 +1,9 @@
 # Página de Captura para curso online
 
+![FireShot Capture 011 - Curso de matemática básica - ATENA - paginadecapturacurso netlify app](https://user-images.githubusercontent.com/89321125/151032445-9d6c1c79-8d26-42b7-a568-324e2257014a.png)
+
+Link do site: <a href="https://paginadecapturacurso.netlify.app/">Página de captura</a>
+
 ### Contatos e redes sociais:
 <div style="display: inline_block">
   <a href="mailto:wesleyara.contato@gmail.com"><img alt="Wesley-GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -9,7 +13,6 @@
 
 ### Linguagens utilizadas:
 <div style="display: inline_block;">
-  <img alt="Wesley-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="Wesley-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="Wesley-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
